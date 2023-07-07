@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0px;
+    /* background-color: aqua; */
+}
+
+.sugam {
+    background-color: blue;
+    margin: 70px 300px 86px 347px;
+    padding: 10px 20px 30px 40px ;
+}
+
+.sarthak{
+    background-color: bisque;
+    padding: 10px 20px 30px 40px;
+}
+
+
+
+.sugam h1{
+    color: blueviolet;
+    text-shadow: 1px 1px #269cd3;
+    font-size: 63px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.sugam :hover {
+    background-color: rgb(77, 237, 77);
+}
